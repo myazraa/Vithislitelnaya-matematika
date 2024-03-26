@@ -1,0 +1,18 @@
+﻿  optimization.cpp
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(4,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(85,15): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(85,5): error C3861: setlocale: идентификатор не найден
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(87,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(88,5): error C2065: cin: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(89,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(90,5): error C2065: cin: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(91,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(92,5): error C2065: cin: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(98,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(98,50): error C2065: endl: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(99,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(99,75): error C2065: endl: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(100,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\optimization\optimization\optimization.cpp(100,69): error C2065: endl: необъявленный идентификатор
