@@ -1,0 +1,12 @@
+﻿  neleneynie-yravnenia.cpp
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(4,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(50,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(50,112): error C2065: endl: необъявленный идентификатор
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(73,12): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(73,2): error C3861: setlocale: идентификатор не найден
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(78,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(78,125): error C2065: endl: необъявленный идентификатор
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(79,2): error C2065: cout: необъявленный идентификатор
+C:\Users\Виталик\Desktop\neleneunie-yravnenia\neleneynie-yravnenia\neleneynie-yravnenia.cpp(79,108): error C2065: endl: необъявленный идентификатор
